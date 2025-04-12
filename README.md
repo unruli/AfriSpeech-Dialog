@@ -1,4 +1,4 @@
-# AfriSpeech-Dialog
+# AfriSpeech-Dialogs
 
 ## Project Overview
 
